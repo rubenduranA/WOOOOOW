@@ -1,0 +1,18 @@
+.artist {
+    font-family:verdana;
+}
+.game{
+    font-family:Courier;
+}
+.movie{
+    font-family: 'Bungee', cursive;
+}
+.class{
+   font-family:'Roboto Slab', cursive;
+}
+body{
+    text-align:center;
+    background-color:grey;
+}
+
+    
